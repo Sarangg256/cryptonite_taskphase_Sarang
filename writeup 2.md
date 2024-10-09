@@ -6,3 +6,5 @@ I solved the first few challenges by using cd command that changes directories, 
 the next few challenges were about relative paths. A relative path is any path that does not start at root.
 There are implicit and explicit relative paths.
 I solved it by running /challenge/run using a relative path.
+
+![Capture](https://github.com/user-attachments/assets/e7ed4e58-1e7f-4e35-b569-2b26e5bacfa3)
