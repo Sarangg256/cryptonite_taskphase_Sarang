@@ -10,5 +10,4 @@ The next few challenges were a bit tricky. I had to use globbing by using square
 
 I did the last challenge by filtering out the unwanted letters by using square brackets []. 
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/c0aec59a-dbf2-4b84-b7e9-9553bf8d486c)
