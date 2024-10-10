@@ -10,4 +10,12 @@ The next few challenges were a bit tricky. I had to use globbing by using square
 
 I did the last challenge by filtering out the unwanted letters by using square brackets []. 
 
+
+
+
+
+
+pwn.college{gAwP20k3ln1XUKrrui1c5mwlxse.dZjM4QDL3cDO0czW}
+
+
 ![image](https://github.com/user-attachments/assets/c0aec59a-dbf2-4b84-b7e9-9553bf8d486c)
