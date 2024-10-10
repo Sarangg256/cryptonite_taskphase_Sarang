@@ -12,4 +12,13 @@ For the next challenges, i had to use the man command to search for the hidden m
 
 I solved the last 2 challenges by using the help command in order to look for builtins.
 
-![image](https://github.com/user-attachments/assets/26d98b3e-cd90-4336-9394-84758d5af942)
+
+
+pwn.college{Arqi5WYSCxaVzGWwMl2WuhPRylh.dZTM4QDL3cDO0czW}
+pwn.college{IxvUHIdPTsmlS-YpWxj-j88Ngq6.ddjM4QDL3cDO0czW}
+pwn.college{IxvUHIdPTsmlS-YpWxj-j88Ngq6.ddjM4QDL3cDO0czW}
+pwn.college{wo9UxYfBZyPQtkkgy7X8X1NM2c6.dRjM4QDL3cDO0czW}
+pwn.college{gAwP20k3ln1XUKrrui1c5mwlxse.dZjM4QDL3cDO0czW}
+
+![image](https://github.com/user-attachments/assets/e4688170-696c-42db-b350-7fbf16641eb8)
+
