@@ -18,7 +18,7 @@ pwn.college{Arqi5WYSCxaVzGWwMl2WuhPRylh.dZTM4QDL3cDO0czW}
 pwn.college{IxvUHIdPTsmlS-YpWxj-j88Ngq6.ddjM4QDL3cDO0czW}
 pwn.college{IxvUHIdPTsmlS-YpWxj-j88Ngq6.ddjM4QDL3cDO0czW}
 pwn.college{wo9UxYfBZyPQtkkgy7X8X1NM2c6.dRjM4QDL3cDO0czW}
-pwn.college{gAwP20k3ln1XUKrrui1c5mwlxse.dZjM4QDL3cDO0czW}
+
 
 ![image](https://github.com/user-attachments/assets/e4688170-696c-42db-b350-7fbf16641eb8)
 
