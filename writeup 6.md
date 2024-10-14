@@ -14,4 +14,9 @@ For the grepping live output challenge, /challenge/run gave a lot of lines of te
 
 I also learned how to redirect input from programs using < operator. I redirected the PWN file to /challenge/run with the value as COLLEGE and solved the challenge. 
 
+
+pwn.college{sDTbxrA5ELwwnmhdnA_tgKNwdwX.dVjN1QDL3cDO0czW}
+pwn.college{M73WjBAl__uiKe5Lc5T3iawZmGy.ddDM5QDL3cDO0czW}
+
+
 ![image](https://github.com/user-attachments/assets/fd4038ef-aa90-4c86-8823-749aab016d31)
